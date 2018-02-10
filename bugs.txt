@@ -1,0 +1,2 @@
+** si voy a payment me devuelve a checkput asi este en 0
+* al relizar una busqueda, no filtra los resultados de la busqueda.
